@@ -1,0 +1,8 @@
+name: Tabrank
+version: '${project.version}'
+main: plugin.tabrank.Tabrank
+api-version: 1.19
+prefix: Tabrank
+authors: [ John, Lienau, TheZitroX ]
+description: Aligns the Users by their Group
+website: github.com/thezitrox
